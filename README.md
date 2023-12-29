@@ -2,16 +2,16 @@
 
 I'm a software engineer from India, passionate about anything and everything about computers and programming.
 
-<h1 align="center">
+<h1 align="left">
   Links
 </h1>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/nethishrajendran/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://nethish.com/blog">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 </a>
 </p>
 
