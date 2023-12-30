@@ -13,6 +13,15 @@ I'm a software engineer from India, passionate about anything and everything abo
 <a href="https://nethish.com/blog">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 </a>
+<a href="https://stackoverflow.com/users/7793849/nethish-rajendran">
+  <img height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
+</a>
+<a href="https://codeforces.com/profile/nethish">
+  <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png"/>
+</a>
+
+
+
 </p>
 
 <h2> 🚀 &nbsp;Tools I have learnt and used sometimes</h2>
@@ -35,6 +44,7 @@ I'm a software engineer from India, passionate about anything and everything abo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin.svg" alt="airflow" width="45" height="45"/>   
 </p>
 
 
