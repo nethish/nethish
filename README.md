@@ -1,6 +1,6 @@
-# Hi there :wave:
+# 1101000 1100101 1101100 1101100 1101111! :wave:
 
-I'm a software engineer from India, passionate about anything and everything about computers and programming.
+Computers. Computers. Computers. I only speak computers.
 
 <h1 align="left">
   Links
@@ -48,5 +48,6 @@ I'm a software engineer from India, passionate about anything and everything abo
 </p>
 
 
-I know there is nothing in here. I'm having this for the future. Maybe come back in a year and see for yourselves? 
 [![Nethish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethish)](https://github.com/anuraghazra/github-readme-stats)
+
+:wq
