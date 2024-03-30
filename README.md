@@ -13,18 +13,13 @@ Computers. Computers. Computers. I only speak computers.
 <a href="https://nethish.com/blog">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 </a>
-<a href="https://stackoverflow.com/users/7793849/nethish-rajendran">
-  <img height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
-</a>
 <a href="https://codeforces.com/profile/nethish">
   <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png"/>
 </a>
 
-
-
 </p>
 
-<h2> 🚀 &nbsp;Tools I have learnt and used sometimes</h2>
+<h2> 🚀 &nbsp; Logos I like</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
