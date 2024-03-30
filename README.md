@@ -1,6 +1,6 @@
 # 1101000 1100101 1101100 1101100 1101111! :wave:
 
-Computers. Computers. Computers. I only speak computers.
+Computers. Computers. Computers.
 
 <h1 align="left">
   Links
